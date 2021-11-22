@@ -106,10 +106,10 @@ if cap.isOpened():
             print(line)
             if line == 'p1' :
                 mugung1.play()
-                time.sleep(1.1)
+                time.sleep(1.4)
             elif line == 'p2' :
                 mugung2.play()
-                time.sleep(2.3)
+                time.sleep(2.5)
             elif line == 'p3' :
                 mugung3.play()
                 time.sleep(3.2)
